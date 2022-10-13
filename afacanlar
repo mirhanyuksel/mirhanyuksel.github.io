@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tablo Ve Link</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <thead>
+            <tr>
+                <th width="200px">Resim</th>
+                <th>Karakter</th>
+                <th>Karakter Açıklaması</th>
+                <th>Anne Babası</th>
+        </thead>
+        </tr>
+        <tbody>
+            <tr>
+                <td><img src="WhatsApp%20Image%202022-08-24%20at%2013.47.50.jpeg" width="250"></td>
+                <td>Bal</td>
+                <td>Evin afacan çocuğu </td>
+                <td><a href="https://www.instagram.com/mirhanyuksel/" target="_blank">Mirhan Yüksel</a></td>
+            </tr>
+            <tr>
+                <td><img src="WhatsApp%20Image%202022-08-26%20at%2010.39.17.jpeg" width="250"></td>
+                <td>Mırmırsu</td>
+                <td>Evin hanım kızı</td>
+                <td><a href="https://www.instagram.com/esraakarli/" target="_blank">Esra Karlı</a></td>
+
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+
+</html>
